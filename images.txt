@@ -11,5 +11,5 @@
 #kubesphere/ks-installer:v3.4.1
 #--platform=arm64 ubuntu
 #nvcr.io/nvidia/l4t-jetpack:r35.4.1
-nvidia/cuda:11.3.1-cudnn8-devel-ubuntu20.04-aarch64
+nvcr.io/nvidia/cuda:11.6.1-devel-ubuntu20.04
 
