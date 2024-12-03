@@ -9,5 +9,6 @@
 #ghcr.io/open-webui/open-webui:cuda
 #cr2.fit2cloud.com/1panel/maxkb
 #kubesphere/ks-installer:v3.4.1
---platform=arm64 ubuntu
+#--platform=arm64 ubuntu
+nvcr.io/nvidia/l4t-jetpack:r35.4.1
 
