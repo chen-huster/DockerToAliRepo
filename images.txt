@@ -12,4 +12,5 @@
 #--platform=arm64 ubuntu
 #nvcr.io/nvidia/l4t-jetpack:r35.4.1
 #nvcr.io/nvidia/cuda:11.6.1-devel-ubuntu20.04@sha256:2732cd07ffb34d73621a12de8ecea08a1caa7b87d43ccbca34112de189824c20
-nvcr.io/nvidia/l4t-cuda:11.4.19-devel
+#nvcr.io/nvidia/l4t-cuda:11.4.19-devel
+nvcr.io/nvidia/l4t-tensorrt:r8.2.1-runtime
