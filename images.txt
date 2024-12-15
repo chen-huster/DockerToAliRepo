@@ -15,4 +15,5 @@
 #nvcr.io/nvidia/l4t-cuda:11.4.19-devel
 #nvcr.io/nvidia/l4t-tensorrt:r8.2.1-runtime
 #nvcr.io/nvidia/l4t-cuda:10.2.460-runtime
-nvcr.io/nvidia/l4t-cuda:11.4.14-runtime
+#nvcr.io/nvidia/l4t-cuda:11.4.14-runtime
+nvcr.io/nvidia/l4t-tensorrt:r8.5.2-runtime
