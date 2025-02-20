@@ -26,8 +26,8 @@
 #langgenius/dify-plugin-daemon:0.0.2-local
 #ubuntu/squid:latest
 #certbot/certbot
-nginx:latest
-#semitechnologies/weaviate:1.19.0
+#nginx:latest
+semitechnologies/weaviate:1.19.0
 #langgenius/qdrant:v1.7.3
 #pgvector/pgvector:pg16
 #tensorchord/pgvecto-rs:pg16-v0.3.0
